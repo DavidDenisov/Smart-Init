@@ -1,5 +1,5 @@
-# Smart init: Deep learning as (PAC) learning.
-The official code of the paper **Smart init: Deep learning as (PAC) learning**,
+# Smart-init of nural networks
+The official code of the paper **Smart-init of nural networks** published in ICCAI 2025,
 which suggested an initialization method that have improved the results in the experiments done in the paper.
 
 This repository contains the code and results for all the algorithms and examples that appeared in the paper.
@@ -19,4 +19,4 @@ Used to apply `torch.transpose` on the images.
 - **over_train** generates the results for Figure 5 in the paper.
 - **plot** the code that generates the plots (besides Figure 5) and the values in the tables in the paper.
 
-
+### For initialization install the requirements, and add imagenetv2-top-images to test_extract.
