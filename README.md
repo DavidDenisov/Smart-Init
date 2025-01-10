@@ -1,17 +1,7 @@
-# Smart-init of nural networks
-The official code of the paper **Smart-init of nural networks** published in ICCAI 2025,
-which suggested an initialization method that have improved the results in the experiments done in the paper.
+# Smart-init of neural networks
+The official code of the paper **Smart-init of neural networks** published in ICCAI 2025,
+which suggested an initialization method that has improved the results of the experiments done in the paper.
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
-
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
-
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 This repository contains the code and results for all the algorithms and examples that appeared in the paper.
 ### CONSTRUCTION
@@ -32,3 +22,16 @@ Used to apply `torch.transpose` on the images.
 
 ### For initialization install the requirements, and add imagenetv2-top-images to test_extract.
 
+## License
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+See [License](License.md) and an unformatted version at [Un-formated-License](License).
