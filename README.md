@@ -35,3 +35,7 @@ This work is licensed under a
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 See [License](License.md) and an unformatted version at [Un-formated-License](License).
+
+Essentially, you can use the work (given appropriate credit), and not for commercial use.
+
+**Please contact [David-Denisov](mailto:DavidDenisov14@gmail.com) if you wish to use the work (or parts of it) for commercial use.**
