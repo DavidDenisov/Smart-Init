@@ -1,7 +1,8 @@
 # Smart-init of neural networks
-The official code of the paper **Smart-init of neural networks** published in ICCAI 2025,
+The official code of the paper **Smart-init of neural networks** published (in press) in ICCAI 2025,
 which suggested an initialization method that has improved the results of the experiments done in the paper.
 
+*Fell free to contact [David-Denisov](mailto:DavidDenisov14@gmail.com) for suggestions, collaborations, e.t.c.*
 
 This repository contains the code and results for all the algorithms and examples that appeared in the paper.
 ### CONSTRUCTION
